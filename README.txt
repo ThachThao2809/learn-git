@@ -20,3 +20,6 @@ git checkout tên-nhánh
 git stash
 5. lấy lại thay đổi (4)
 git satsh pop
+
+#1. Tao 2 branch
+#2. Push them 5 commit 
