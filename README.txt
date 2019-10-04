@@ -19,6 +19,8 @@ git checkout tên-nhánh
 4. Lưu lại thay đổi trên nhánh local khi nhảy qua nhánh khác
 git stash
 5. lấy lại thay đổi (4)
-git satsh pop
+git stask pop
 
-dasdasdsadsaddsadsadsadasdad
+
+Task1. Tao 2 branch /sua
+Task2. Push them 5 commit /sua
