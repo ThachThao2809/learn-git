@@ -20,5 +20,3 @@ git checkout tên-nhánh
 git stash
 5. lấy lại thay đổi (4)
 git satsh pop
-
-dasdasdsadsaddsadsadsadasdad
