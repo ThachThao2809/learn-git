@@ -21,4 +21,5 @@ git stash
 5. lấy lại thay đổi (4)
 git satsh pop
 
-dasdasdsadsaddsadsadsadasdad
+#1. Tao 2 branch
+#2. Push them 5 commit 
